@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 React와 Node.js를 활용한 고객 관리 시스템 개발 강의(나동빈) 실습 결과물입니다.
+React와 Node.js를 활용한 고객 관리 시스템 개발 강의(ndb796) 실습
 
 # Getting Started with Create React App
 
